@@ -15,3 +15,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'HindShiliguri';
+  src: local(HindShiliguri),
+    url(./fonts/Hind-Siliguri-Medium-Regular.ttf) format('truetype');
+  font-weight: normal;
+}

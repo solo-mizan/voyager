@@ -4,7 +4,6 @@ import VideoBanner from './VideoBanner/VideoBanner';
 const Home = () => {
     return (
         <div>
-            <VideoBanner></VideoBanner>
         </div>
     );
 };

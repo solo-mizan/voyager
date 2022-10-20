@@ -6,10 +6,11 @@ import boat from '../../../../assets/boat-art.jpg';
 const VideoBanner = () => {
     return (
         <div className='video-div'>
-            <video src={videoBg} autoPlay loop muted></video>
-            <img src={boat} alt="" />
+            <div className="overlay">
+                <video src={videoBg} autoPlay loop muted></video>
+            </div>
             <div className="content">
-                
+                <h1 className='text-3xl banglaFont text-sky-900'>চলনবিল নৌকা ভ্রমণ</h1>
             </div>
         </div>
     );
