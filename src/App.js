@@ -6,7 +6,7 @@ import Footer from './components/Shared/Footer/Footer';
 
 function App() {
   return (
-    <div>
+    <div className='body'>
       <Navbar></Navbar>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
