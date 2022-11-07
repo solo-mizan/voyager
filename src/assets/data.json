@@ -1,0 +1,42 @@
+[
+    {
+        "index": 0,
+        "image": "https://i.ibb.co/YPw3BBW/fiber-cable.jpg",
+        "price": 20,
+        "serviceName": "Fiber Optic Cable",
+        "rating": "4.5",
+        "description": "Experience superb sonic clarity and accurate musical reproduction with this Optical Toslink cable from Mono price! Optical S/PDIF (aka Toslink) cables are an excellent way to distribute high-definition multi-channel audio without the risk of common electrical problems such as ground loops or RF and EM interference. This cable features a full-sized Toslink connector on each end and molded connector heads and strain-relief boots"
+    },
+    {
+        "index": 1,
+        "image": "https://i.ibb.co/c8KHvXD/satellite-tv.jpg",
+        "price": "200 Taka/Month",
+        "serviceName": "Satellite TV",
+        "rating": "4.0",
+        "description": "1. NO CONTRACT; Ideal with DISH Pay As You Go HD programming 2. PORTABLE; The DISH Tailgater from KING is a premium satellite TV antenna for people on the go; Lightweight and designed for use on the road, this DISH satellite for RVs and camping is engineered to withstand the great outdoors in any weather 3. TV ANYWHERE; This DISH Wally receiver allows you to access your DISH subscription anywhere in the contiguous US; Simply call DISH before traveling and they will enable your portable satellite dish for RVs to access the DISH network wherever you are; Add to your existing subscription or only pay for the months you use"
+    },
+    {
+        "index": 2,
+        "image": "https://i.ibb.co/2PHNs5D/patch-cord.jpg",
+        "price": "20 taka/meter",
+        "serviceName": "Patch Cord",
+        "rating": "4.7",
+        "description": "At half the size of standard Cat6A patch cables, SlimRun Cat6A helps reduce congestion in high-density environments, such as data centers and telecommunications rooms With SlimRun Cat6A, you can fit more cables in the same space, saving you the time and cost of expanding or replacing cable pathways 0.118-inch diameter, 30AWG flexible cable and snagless narrow boot design"
+    },
+    {
+        "index": 3,
+        "image": "https://i.ibb.co/fDwbdHP/onu.jpg",
+        "price": 700,
+        "serviceName": "Huawei Onu",
+        "rating": "3.5",
+        "description": "This is a ONU (Optical Network Unit) / ONT (optical network terminal) placed in the case of the SFP format module. Allows any Router to be used for Fiber to Home installations without any special modems or software. Thermostability"
+    },
+    {
+        "index": 4,
+        "image": "https: //i.ibb.co/TTwF1Dg/router.jpg",
+        "price": 1500,
+        "serviceName": "TP-Link Router",
+        "rating": "5.0",
+        "description": "OneMesh Compatible Router- Form a seamless WiFi when work with TP-Link OneMesh WiFi Extenders Router for wireless internet, works with Alexa, compatible with all Wi-Fi devices, 802.11ac and older Dual band router upgrades to 1750 Mbps high speed internet(450mbps for 2.4GHz, 1300Mbps for 5GHz), reducing buffering and ideal for 4K streaming"
+    }
+]
