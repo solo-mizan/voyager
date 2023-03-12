@@ -15,6 +15,7 @@
     "react-firebase-hooks": "^5.0.3",
     "react-hook-form": "^7.38.0",
     "react-hot-toast": "^2.3.0",
+    "react-icons": "^4.8.0",
     "react-photo-view": "^1.2.2",
     "react-query": "^3.39.2",
     "react-router": "^6.3.0",
@@ -23,6 +24,7 @@
     "react-scroll-parallax": "^3.3.1",
     "react-spinners": "^0.13.6",
     "socket.io": "^4.5.3",
+    "swiper": "^8.4.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
