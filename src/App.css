@@ -25,4 +25,6 @@ footer {
 
 .banglaFont {
   font-family: HindShiliguri;
+  -webkit-text-stroke: 1px rgb(19, 16, 16);
+    /* width and color */
 }

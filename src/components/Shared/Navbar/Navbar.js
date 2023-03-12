@@ -1,11 +1,23 @@
 import React from 'react';
+import './Navbar.css';
 import { Link, NavLink } from 'react-router-dom';
-
 
 const Navbar = () => {
 
+    /* When the user scrolls down, hide the navbar. When the user scrolls up, show the navbar */
+    let prevScrollpos = window.pageYOffset;
+    window.onscroll = function () {
+        const currentScrollPos = window.pageYOffset;
+        if (prevScrollpos > currentScrollPos) {
+            document.getElementById("navbar").style.top = "0";
+        } else {
+            document.getElementById("navbar").style.top = "-70px";
+        }
+        prevScrollpos = currentScrollPos;
+    }
+
     return (
-        <div className="navbar bg-base-200">
+        <div id='navbar' className="navbar bg-base-200">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
